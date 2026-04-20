@@ -2,11 +2,11 @@
 
 **Senior .NET/C# Backend Engineer | Agentic AI | Enterprise Performance Optimization**
 
-I build backend systems that save Fortune 500 companies tens of millions of dollars. 15+ years designing and delivering enterprise solutions across global tax compliance, marketing analytics, and cloud architecture. My current focus is the intersection of deep .NET backend engineering and production agentic AI — bridging the gap between Python-dominant AI research and enterprise .NET deployment.
+I build backend systems that save Fortune 500 companies tens of millions of dollars. 10+ years designing and delivering enterprise solutions across global tax compliance, marketing analytics, and cloud architecture. My current focus is the intersection of deep .NET backend engineering and production agentic AI — bridging the gap between Python-dominant AI research and enterprise .NET deployment.
 
 ## What I Build
 
-- **Enterprise cloud backends** — C#/.NET Core APIs serving Fortune 500 customers (Google, Siemens, Equifax)
+- **Enterprise cloud backends** — C#/.NET Core APIs serving Fortune 500 customers (Google, Siemens, Equifax, Haleon)
 - **Agentic AI systems** — Multi-LLM architectures with customizable agents, background processing workflows, and prompt-driven behavior
 - **Performance-critical systems** — Identified and resolved bottlenecks delivering 20% throughput gains and 95% memory reduction at scale
 
@@ -35,7 +35,6 @@ Most of my professional work lives in private enterprise repositories. Here's wh
 ## Currently
 
 - Building an AI-augmented .NET marketing platform with agentic architecture
-- Pursuing AI-102 (Azure AI Engineer) and CKAD certifications
 - Open to senior backend roles and premium consulting engagements
 
 ## Connect
