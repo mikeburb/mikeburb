@@ -6,7 +6,7 @@ I build backend systems that save Fortune 500 companies tens of millions of doll
 
 ## What I Build
 
-- **Enterprise cloud backends** — C#/.NET Core APIs serving Fortune 500 customers (Google, Siemens, Equifax, Haleon)
+- **Enterprise cloud backends** — C#/.NET Core APIs serving Fortune 500/1000 customers (Google, Siemens, Equifax, Haleon)
 - **Agentic AI systems** — Multi-LLM architectures with customizable agents, background processing workflows, and prompt-driven behavior
 - **Performance-critical systems** — Identified and resolved bottlenecks delivering 20% throughput gains and 95% memory reduction at scale
 
